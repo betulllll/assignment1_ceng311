@@ -1,0 +1,70 @@
+.advertisement
+{
+	width:100px;
+	height:150px; 
+	border-color:black;
+	border-width:2px; 
+	background-color:gray; 
+	color:white;
+    left: 25px;
+	top:25px;
+}
+
+img{
+	width:250px;
+	float: left;
+}
+
+.image{
+	width: 250px;
+}
+
+.content{
+	width: 70%;
+	left: 200px;
+	top: 100px;
+	position: absolute;
+	float:right;
+
+}
+
+.logo{
+	float: left;
+	margin: auto;
+}
+
+.header{
+	left: 200px;
+	position: absolute;
+	float:left;
+}
+
+.title{
+	float: right;
+	top:0px;
+	left: 50px;
+	margin: auto;
+	text-align: center;
+	position: relative;
+}
+
+
+.left{
+	float: left;
+	padding: 0px 10px 0px 0px;
+	margin: 0px 10px 0px 0px;
+}
+
+.head{
+	top: 620px;
+	left: 500px;
+	position: absolute;
+}
+
+.validate{
+	width: 100%;
+	top: 650px;
+	left: 500px;
+	position: absolute;
+
+}
