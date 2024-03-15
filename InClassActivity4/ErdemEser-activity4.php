@@ -34,7 +34,7 @@ if ($_SERVER["REQUEST_METHOD"] == "GET" && isset($_GET["from_value"]) && isset($
 }
 ?>
 
-<form action="activity4.php" method="GET">
+<form action="ErdemEser-activity4.php" method="GET">
     <table>
         <tr>
             <td>From:</td>
